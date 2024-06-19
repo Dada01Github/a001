@@ -1,0 +1,11 @@
+# 配置账户1
+Host github.com-gdsny
+ HostName github.com
+ User git
+ IdentityFile ~/.ssh/id_rsa
+
+ # 配置账户2
+Host github-dada20240619
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_rsa_dada2024
